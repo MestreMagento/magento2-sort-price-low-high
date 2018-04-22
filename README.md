@@ -2,6 +2,9 @@
 
 Esse modulo permite introduzir mais duas formas de ordenação de produtos, por menor preço e maior preço.
 
+Toda semana novas aulas, inscreva-se em nosso canal do Youtube!
+<a href="https://www.youtube.com/mestremagento">https://www.youtube.com/mestremagento</a>
+
 ## Primeiros Passos
 
 Faça o <a href="https://github.com/MestreMagento/magento2-sort-price-low-high/archive/master.zip">download do repositório</a> e coloque dentro da pasta /app/code/<b>MestreMagento</b>/<b>SortPriceLowHigh/</b>.
